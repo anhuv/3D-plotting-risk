@@ -8,4 +8,4 @@
 * IDE: Code::Blocks
 
 ## Result
-Compile main.c file and result like thread.png
+Compile main.c file and result like result.png
